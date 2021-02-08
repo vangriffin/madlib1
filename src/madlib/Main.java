@@ -11,9 +11,9 @@ public class Main {
 		System.out.println("Enter an adverb:");
 		String adverb = userInput.nextLine();
 		System.out.println("Enter an adjective:");
-		String adjective = userInput.nextLine();
-		System.out.println("Enter a noun:");
-		String nounOne = userInput.nextLine();
+//		String adjective = userInput.nextLine();
+//		System.out.println("Enter a noun:");
+//		String nounOne = userInput.nextLine();
 		System.out.println("Enter a place:");
 		String place = userInput.nextLine();
 		System.out.println("Enter a number:");
